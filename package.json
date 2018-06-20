@@ -1,0 +1,14 @@
+{
+  "name": "RGBcolorGame",
+  "version": "1.0.0",
+  "description": "",
+  "main": "colorGame.js",
+  "scripts": {
+    "start": "live-server"
+  },
+  "author": "Wojciech Cywinski",
+  "license": "ISC",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
